@@ -4,7 +4,7 @@ const Hire = () => {
   return (
     <div class="max-w-4xl mx-auto p-8">
     <h1 class="text-4xl font-bold text-center mb-6">Hire a Writer</h1>
-    <p class="text-lg text-gray-700 mb-6 text-center">Looking for professional writing services? You've come to the right place! Our experienced writers are here to help you with all your writing needs.</p>
+    <p class="text-lg text-gray-700 mb-6 text-center">Looking for professional writing services? You have come to the right place! Our experienced writers are here to help you with all your writing needs.</p>
   
     <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
       <h2 class="text-2xl font-semibold mb-4">Get Started</h2>

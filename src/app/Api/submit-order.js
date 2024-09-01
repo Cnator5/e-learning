@@ -11,7 +11,7 @@ export default async function handler(req, res) {
       secure: false, // Use TLS
       auth: {
         user: "b9141015@gmail.com", // Your Gmail address
-        pass: "Oga1998@95" // Your Gmail app password
+        pass: "your-password", // Your Gmail app password
       },
     });
 

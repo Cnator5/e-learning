@@ -170,7 +170,7 @@ export default function Order() {
           <div className="text-center space-y-4">
             <h2 className="text-2xl font-bold text-green-400">Thank You!</h2>
             <p className="text-lg">Your order has been submitted successfully.</p>
-            <p className="text-lg">We'll get back to you soon with further details.</p>
+            <p className="text-lg">We will get back to you soon with further details.</p>
           </div>
         );
     }

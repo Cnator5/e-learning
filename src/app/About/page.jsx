@@ -23,7 +23,7 @@ const About = () => {
           transition={{ delay: 0.2, duration: 0.5 }}
           className="text-lg mb-6"
         >
-          Welcome to ResearchGuru, your trusted partner in academic excellence and research innovation. Founded in 2015, we've been on a mission to revolutionize the way students and researchers approach their academic journey.
+          Welcome to ResearchGuru, your trusted partner in academic excellence and research innovation. Founded in 2015, we have been on a mission to revolutionize the way students and researchers approach their academic journey.
         </motion.p>
 
         <motion.h2 
